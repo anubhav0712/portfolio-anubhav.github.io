@@ -1,4 +1,4 @@
-baseURL = 'https://blog.deshwal.in/'
+baseURL = 'https://portfolio.deshwal.in/'
 languageCode = 'en-us'
 title = 'Anubhav Deshwal'
 theme = "papermod"
